@@ -1,6 +1,8 @@
 # hpclg
 Poisson-complementary log log hurdle regression Use hpclg With STATA 19
 
+https://www.youtube.com/watch?v=6XPGDYIbcsg
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
